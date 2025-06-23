@@ -20,11 +20,6 @@ Model 10 epoch boyunca eğitilmiş ve hem eğitim hem doğrulama verilerinde yü
 Test görseli başarıyla sınıflandırılmıştır:
 - `catt.jpg` → **Kedi 🐱**
 
-## 📁 Dosyalar
-- `model_egitimi.ipynb` – Eğitim süreci ve testler
-- `test_set.zip` – Eğitimde kullanılan veri seti
-- `kedi_kopek_modeli.h5` – Eğitilen model dosyası
-- `test_gorsel/` – Test için kullanılan görseller
 
 ## 📝 Not
 Bu proje, bilgisayarla görü alanına giriş için yapılmıştır.  
